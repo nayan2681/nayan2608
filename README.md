@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayan Ramani</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
@@ -7,7 +7,7 @@
 
 - 📚 I am a computer engineering graduate at Dhirubhai Ambani Institute of information and communication technology
 - 🎯 I am a Tech and Coding enthusiast and Competitive Programmer.
-- 📫 How to reach me **nayanramani1@gmail.com**
+- 📫 How to reach me **nayanramani26@gmail.com**
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
