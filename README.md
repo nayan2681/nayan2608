@@ -7,7 +7,6 @@
 
 - 📚 I am a computer engineering graduate at Dhirubhai Ambani Institute of information and communication technology
 - 🎯 I am a Tech and Coding enthusiast and Competitive Programmer.
-- 📫 How to reach me **nayanramani26@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
